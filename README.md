@@ -1,5 +1,7 @@
 # pnacssh - Passive Nagios Core checks via SSH
 
+![pnacssh](doc/pnacssh.jpg)
+
 Pnacssh is a versatile tool to set up secure passive monitoring via ssh with a few steps. As widely known, passive checks are a convenient way to gather monitoring information from hosts which somehow are not available for active checks, and SSH offers a well proven framework for secure communications. Pnacssh has following features:
 
 * Based on monitoring templates (basic checks for Linux and Windows are included, easily extendable)
